@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "name": "Full Stack Web Development With MERN",
+    "price": 6171
+}, {
+    "id": 2,
+    "name": "Web Development with PHP & Laravel",
+    "price": 8123
+}, {
+    "id": 3,
+    "name": "App Development with Flutter",
+    "price": 1538
+}, {
+    "id": 4,
+    "name": "Mastering Vue.js",
+    "price": 7495
+  }, {
+    "id": 5,
+    "name": "UI-UX Design",
+    "price": 7099
+  }, {
+    "id": 6,
+    "name": "Digital Marketing",
+    "price": 3909
+  }, {
+    "id": 7,
+    "name": "Product Management",
+    "price": 2713
+  }, {
+    "id": 8,
+    "name": "Wordpress Theme Development",
+    "price": 3465
+  }, {
+    "id": 9,
+    "name": "Data Analytics with Python",
+    "price": 4022
+  }, {
+    "id": 10,
+    "name": "Fundamentals of Cybersecurity",
+    "price": 7256
+  }, {
+    "id": 11,
+    "name": "Blockchain",
+    "price": 3169
+  }, {
+    "id": 12,
+    "name": "Graphics Design",
+    "price": 5964
+  }, {
+    "id": 13,
+    "name": "Basic of Web Development",
+    "price": 3081
+  }, {
+    "id": 14,
+    "name": "Mastering Shopify : App Development",
+    "price": 7033
+  }, {
+    "id": 15,
+    "name": "Frontend Development",
+    "price": 1310
+  }]
