@@ -1,3 +1,11 @@
 .main{
     display: flex;
 }
+.con{
+    box-shadow: 5px 5px 10px gray;
+}
+.course-name{
+    text-align: left;
+    padding:20px 0px;
+    font-weight: 600;
+}

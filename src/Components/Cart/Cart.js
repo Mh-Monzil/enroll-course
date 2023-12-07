@@ -12,6 +12,7 @@ const Cart = (props) => {
         <div className='cart-container'>
             <h4>Course Cart : {cart.length} </h4>
             <h5>Total Payment : {totalPayment} BDT</h5>
+            <button></button>
         </div>
     );
 };
